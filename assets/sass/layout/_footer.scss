@@ -1,5 +1,5 @@
 ///
-/// Editorial by HTML5 UP
+/// Hyperspace by HTML5 UP
 /// html5up.net | @ajlkn
 /// Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 ///
@@ -7,12 +7,32 @@
 /* Footer */
 
 	#footer {
-		.copyright {
-			color: _palette(fg-light);
-			font-size: 0.9em;
+		#sidebar + #wrapper + & {
+			margin-left: _size(sidebar-width);
 
+			@include breakpoint('<=large') {
+				margin-left: 0;
+			}
+		}
+
+		> .inner {
 			a {
-				color: inherit;
+				border-bottom-color: _palette(border);
+
+				&:hover {
+					border-bottom-color: transparent;
+				}
+			}
+
+			.menu {
+				font-size: 0.8em;
+				color: _palette(border);
+			}
+		}
+
+		#header + #wrapper + & {
+			> .inner {
+				margin: 0 auto;
 			}
 		}
 	}
