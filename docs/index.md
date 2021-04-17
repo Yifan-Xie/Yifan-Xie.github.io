@@ -8,7 +8,7 @@ nav_order: 1
     ⭐️<a href="https://yifan-xie.github.io/"><strong>Explore Our website»</strong></a>
     <br />
     <br />
-    <img src="Images/Logo.png" alt="Logo" >
+    <img src="../images/Logo.png" alt="Logo" >
   </a>
     <br />
     <br />
