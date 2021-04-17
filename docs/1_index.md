@@ -1,6 +1,6 @@
 ---
-nav_order: 1
 title: Welcome!
+nav_order: 1
 ---
 
 ## Welcome to Cycle Buddy
