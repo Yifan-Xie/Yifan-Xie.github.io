@@ -10,7 +10,7 @@ nav_order: 1
 * OpenALPR
 * JSON
 * Cmake
-<br><br>
+<br>
 
 ## Packages Installations
 Before install any packages, please run the following:<br>
