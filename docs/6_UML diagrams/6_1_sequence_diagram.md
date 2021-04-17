@@ -4,7 +4,7 @@ parent: UML diagrams
 nav_order: 1
 ---
 
-## Sequence_diagram
+## Sequence diagram
 
 <p align="center">
   <img height = 600 src="../images/sequence_diagram.png">
