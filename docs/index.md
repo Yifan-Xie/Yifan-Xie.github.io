@@ -2,10 +2,10 @@
 title: Welcome!
 nav_order: 1
 ---
-## Welcome to Cycle Buddy
+## Welcome to Cycle Buddy !
 <p align="center">
     ⭐️<a href="https://github.com/OmarJabri7/Cycle_Buddy"><strong>Explore Our Github»</strong></a>
-    <br />
+    <br><br>
     <img src="images/Logo.png" alt="Logo" >
     <br><br>
 </p>
