@@ -1,3 +1,8 @@
+---
+nav_order: 1
+title: Welcome!
+---
+
 ## Welcome to Cycle Buddy
 
 We are a group of the Real Time Embedded Programing Project in the University of Glasgow.  Two members major in Robotics & Ai, one member majors in Electronic and Electrical Engineering. 
