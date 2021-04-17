@@ -5,7 +5,8 @@ nav_order: 7
 
 # Contact 
 
-The information about our group members
+The information about our group members:
+<br>
 
 * System build: Omar Jabri - [@Omar Jabri](https://github.com/OmarJabri7)
 <br />
