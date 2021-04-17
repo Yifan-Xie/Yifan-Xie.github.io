@@ -7,16 +7,13 @@ nav_order: 7
 
 The information about our group members
 
-System build:
-* Omar Jabri - [@Omar Jabri](https://github.com/OmarJabri7)
+* System build: Omar Jabri - [@Omar Jabri](https://github.com/OmarJabri7)
 <br />
 
-System design:
-* Chang Liu - [@Chang Liu](https://github.com/Cliu1993)
+* System design: Chang Liu - [@Chang Liu](https://github.com/Cliu1993)
 <br />
 
-System intergation:
-* Yifan Xie - [@Yifan Xie](https://github.com/Yifan-Xie)
+* System intergation: Yifan Xie - [@Yifan Xie](https://github.com/Yifan-Xie)
 <br />
 
 ⭐️ **Project address** - [@Project address](https://github.com/OmarJabri7/Cycle_Buddy)
