@@ -1,5 +1,4 @@
 ---
-layout: default
-title: Buttons
+title: Contact
 nav_order: 7
 ------
