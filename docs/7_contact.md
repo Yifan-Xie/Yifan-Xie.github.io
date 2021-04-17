@@ -3,14 +3,7 @@ title: Contact
 nav_order: 7
 ---
 
-<p align="center">
-    To keep people can ride bike more safely on the road.
-    <br />
-    <br />
-    <a href="https://www.youtube.com/channel/UC4mHw6LXU8YYIvdZxgI5Btw"><img height=40 src="images/Youtube_logo.png"></img></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    &nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height=40 src="images/Git_.png"></img></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    &nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height=40 src="images/Twitter_logo.png"></img></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <br /></ p>
+
 
 * Omar Jabri - [@Omar Jabri](https://github.com/OmarJabri7)
 <br />
@@ -22,3 +15,13 @@ nav_order: 7
 <br />
 
 ⭐️ **Project address** - [@Project address](https://github.com/OmarJabri7/Cycle_Buddy)
+
+
+<p align="center">
+    To keep people can ride bike more safely on the road.
+    <br />
+    <br />
+    <a href="https://www.youtube.com/channel/UC4mHw6LXU8YYIvdZxgI5Btw"><img height=40 src="images/Youtube_logo.png"></img></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height=40 src="images/Octocat_.png"></img></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img height=40 src="images/Twitter_logo.png"></img></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <br /></ p>
