@@ -6,6 +6,7 @@ has_children: true
 
 ## Usages for Cycle Buddy
 <p align="center">
+    <br>
     You can also explore our Doxygen for more details: 
     <br />
     <br />
