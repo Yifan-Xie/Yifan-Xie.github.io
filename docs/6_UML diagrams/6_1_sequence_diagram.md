@@ -8,7 +8,7 @@ nav_order: 1
 
 <p align="center">
   <img height = 600 src="../images/sequence_diagram.png">
-  <br><br>    
+  <br> 
   <b> Sequence diagram </b>    
 </p>
 <br><br><br />
