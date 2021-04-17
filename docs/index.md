@@ -4,8 +4,7 @@ nav_order: 1
 ---
 <h2 align="center">Cycle Buddy</h2>  
 <p align="center">
-  <a href="https://github.com/OmarJabri7/Cycle_Buddy">
-    ⭐️<a href="https://yifan-xie.github.io/"><strong>Explore Our website»</strong></a>
+    ⭐️<a href="https://github.com/OmarJabri7/Cycle_Buddy"><strong>Explore Our Github»</strong></a>
     <br />
     <br />
     <img src="../images/Logo.png" alt="Logo" >
