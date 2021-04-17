@@ -11,7 +11,6 @@ nav_order: 1
 * JSON
 * Cmake
 <br>
-
 ## Packages Installations
 Before install any packages, please run the following:<br>
 sudo apt-get update && upgrade<br>
