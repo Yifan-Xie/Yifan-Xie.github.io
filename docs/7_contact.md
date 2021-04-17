@@ -21,6 +21,6 @@ nav_order: 7
     <br />
     <br />
     <a href="https://www.youtube.com/channel/UC4mHw6LXU8YYIvdZxgI5Btw"><img height=40 src="images/Youtube_logo.png"></img></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href=""><img height=40 src="images/Octocat_.png"></img></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href=""><img height=40 src="images/Octocat.png"></img></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href=""><img height=40 src="images/Twitter_logo.png"></img></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <br /></ p>
