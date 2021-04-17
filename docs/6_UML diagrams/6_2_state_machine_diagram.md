@@ -7,7 +7,7 @@ nav_order: 2
 ## State Machine diagram
 
 <p align="center">
-  <img height = 500 src="../images/state_machine_diagram.png">
+  <img height = 600 src="../images/state_machine_diagram.png">
   <br>  
   <b> State Machine diagram</b>    
 </p>
