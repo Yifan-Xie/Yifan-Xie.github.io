@@ -23,7 +23,8 @@ The information about our group members:
 <p align="center">
     <br />
     <br />
-    <a href="https://github.com/OmarJabri7/Cycle_Buddy"><img height=40 src="images/Octocat.png">&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/OmarJabri7/Cycle_Buddy"><img height=40 src="images/Octocat.png">;
+        </ p>
     <a href="https://www.youtube.com/channel/UC4mHw6LXU8YYIvdZxgI5Btw"><img height=40 src="images/Youtube_logo.png">&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="Twitter"><img height=40 src="images/Twitter_logo.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <br /></ p>
