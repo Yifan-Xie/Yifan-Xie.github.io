@@ -23,7 +23,7 @@ The information about our group members:
 <p align="center">
     <br />
     <br />
-    <a href="https://www.youtube.com/channel/UC4mHw6LXU8YYIvdZxgI5Btw"><img height=40 src="images/Youtube_logo.png">&nbsp;&nbsp;&nbsp;&nbsp;
     <a href=""><img height=40 src="images/Octocat.png">&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.youtube.com/channel/UC4mHw6LXU8YYIvdZxgI5Btw"><img height=40 src="images/Youtube_logo.png">&nbsp;&nbsp;&nbsp;&nbsp;
     <a href=""><img height=40 src="images/Twitter_logo.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <br /></ p>
