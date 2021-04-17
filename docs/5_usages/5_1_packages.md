@@ -9,8 +9,8 @@ nav_order: 1
 * Raspicam
 * OpenALPR
 * JSON
-* Cmake
-<br>
+* Cmake <br>
+
 ## Packages Installations
 Before install any packages, please run the following:<br>
 sudo apt-get update && upgrade<br>
