@@ -9,7 +9,7 @@ nav_order: 1
     <br />
     <img src="images/Logo.png" alt="Logo" >
     <br><br>
-  </a></p>
+</p>
   
 ## Welcome to Cycle Buddy
 
