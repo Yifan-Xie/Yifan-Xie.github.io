@@ -7,9 +7,9 @@ nav_order: 7
     To keep people can ride bike more safely on the road.
     <br />
     <br />
-    <a href="https://www.youtube.com/channel/UC4mHw6LXU8YYIvdZxgI5Btw"><img height=40 src="images/youtube_social_circle_red.png"></img></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.youtube.com/channel/UC4mHw6LXU8YYIvdZxgI5Btw"><img height=40 src="images/Youtube_logo.png"></img></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href=""><img height=40 src="images/f_logo_RGB-Blue_1024.png"></img></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href=""><img height=40 src="images/2021%20Twitter%20logo%20-%20blue.png"></img></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href=""><img height=40 src="images/Twitter_logo.png"></img></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <br /></ p>
 
 * Omar Jabri - [@Omar Jabri](https://github.com/OmarJabri7)
