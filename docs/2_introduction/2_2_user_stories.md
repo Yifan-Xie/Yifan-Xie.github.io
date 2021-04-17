@@ -6,7 +6,7 @@ nav_order: 2
 
 ## User Stories
 <p align="center">
-  <img height = 400 src="../images/User Stories.svg">
+  <img height = 600 src="../images/User Stories.svg">
   <br>    
   <b> User Stories</b>    
 </p>
