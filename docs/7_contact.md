@@ -19,6 +19,7 @@ The information about our group members:
 
 ⭐️ **Project address** - [@Project address](https://github.com/OmarJabri7/Cycle_Buddy)
 
+<img height = 40 src="images/Octocar.png">
 <a href="https://github.com/OmarJabri7/Cycle_Buddy"><img height=40 src="images/Octocat.png">
      
   
