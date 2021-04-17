@@ -1,6 +1,5 @@
 ---
-layout: default
 title: Milestones timeline
 parent: Introduction 
-nav_order: 2
+nav_order: 1
 ---
