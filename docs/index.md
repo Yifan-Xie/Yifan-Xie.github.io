@@ -7,7 +7,7 @@ nav_order: 1
     ⭐️<a href="https://github.com/OmarJabri7/Cycle_Buddy"><strong>Explore Our Github»</strong></a>
     <br />
     <br />
-    <img src="../images/Logo.png" alt="Logo" >
+    <img src="images/Logo.png" alt="Logo" >
   </a>
   
 ## Welcome to Cycle Buddy
