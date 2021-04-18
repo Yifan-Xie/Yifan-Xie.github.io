@@ -19,5 +19,17 @@ The information about our group members:
 
 ⭐️ **Project address** - [@Project address](https://github.com/OmarJabri7/Cycle_Buddy)
 
+# Social media link about our project:
+
+⭐️<a href="https://omarjabri7.github.io/Cycle_Buddy/"><strong>Explore the doxygen»</strong></a>  
+  <p align="center">
+    To keep people can ride bike more safely on the road.
+    <br />
+    <a href="https://www.youtube.com/channel/UC4mHw6LXU8YYIvdZxgI5Btw"><img src="Images/youtube_social_circle_red.png" width="40"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://hackaday.io/project/179217-cycle-buddy"><img src="Images/hackaday.png" width="40"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://twitter.com/buddy_cycle"><img src="Images/2021%20Twitter%20logo%20-%20blue.png" width="40"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <br />
+
+
      
   
