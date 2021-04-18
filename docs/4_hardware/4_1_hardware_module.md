@@ -35,7 +35,6 @@ nav_order: 1
 <br><br><br />
 
 ## How does the hardware work? 
-<br>
 
 * 1. Ultrasonic Sensor: The latter aims at capturing the distance from the car relative to to the bike. Moreover, it will extract the speed at which the car was coming at with cm/s as units.<br>
 
