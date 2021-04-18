@@ -22,7 +22,7 @@ The information about our group members:
 # Social media link about our project:
 <br>
 ⭐️<a href="https://omarjabri7.github.io/Cycle_Buddy/"><strong>Explore the doxygen»</strong></a>  
-    <br>
+    <br><br>
     <a href="https://www.youtube.com/channel/UC4mHw6LXU8YYIvdZxgI5Btw"><img src="images/Youtube_logo.png" width="40"></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://hackaday.io/project/179217-cycle-buddy"><img src="images/hackaday.png" width="40"></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://twitter.com/buddy_cycle"><img src="images/Twitter_logo.png" width="40"></a>&nbsp;&nbsp;&nbsp;&nbsp;
