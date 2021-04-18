@@ -7,7 +7,7 @@ nav_order: 7
 <br>
 <div align="center">
   <video width="600" controls>
-    <source src="videos/Cycle_Buddy_Demo.mp4" type="video/mp4">
+    <source src="videos/outdoor-demo-fix1.mp4" type="video/mp4">
   </video>
 </div>
 <br>
