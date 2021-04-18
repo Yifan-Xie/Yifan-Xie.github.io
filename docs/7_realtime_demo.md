@@ -14,7 +14,6 @@ nav_order: 7
 <br>
 
 ### Outdoor and indoor Demo in the Youtube:
-<br>
 * Moral of the story is, that the api is capable enough to recognize the car plates within any environment. Moreover, the data displayed under the Car Plate are the sensor readings at the instant of capturing the image. Thus, ensuring that the system operates in real time. <br>
 <p align="center">
  <iframe width="560" height="315" src="https://www.youtube.com/embed/NPxJzn9jRe8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
