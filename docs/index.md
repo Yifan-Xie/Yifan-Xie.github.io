@@ -16,9 +16,7 @@ Our project, Cycle Buddy, is a system that detects danger levels in bikers relat
 
 ## Short Video demo about our project 
 <br>
-<video id="video" controls="" preload="none" poster="http://media.w3.org/2010/05/sintel/poster.png">
-      <source id="mp4" src="http://media.w3.org/2010/05/sintel/trailer.mp4" type="video/mp4">
-      <source id="webm" src="http://media.w3.org/2010/05/sintel/trailer.webm" type="video/webm">
-      <source id="ogv" src="http://media.w3.org/2010/05/sintel/trailer.ogv" type="video/ogg">
+<video id="video" controls="" preload="none" poster="https://user-images.githubusercontent.com/35663665/115083703-b6767e00-9eff-11eb-9815-4cbdc0df435f.mp4/2010/05/sintel/poster.png">
+      <source id="mp4" src="https://user-images.githubusercontent.com/35663665/115083703-b6767e00-9eff-11eb-9815-4cbdc0df435f.mp4" type="video/mp4">
       <p>Your user agent does not support the HTML5 Video element.</p>
     </video>
