@@ -6,4 +6,9 @@ has_children: true
 
 ## System Overview
 <br>
-This part is for the diagrams of Cycle Buddy. by overviewing these diagrams, you will have a general understanding about our project.
+<p align="center">
+  <img height = 500 src="../images/System_Diagram.png">
+  <br> 
+  <b> System Diagram </b>    
+</p>
+<br><br><br />
