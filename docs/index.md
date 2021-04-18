@@ -15,4 +15,10 @@ We are a group of the Real Time Embedded Programing Project in the University of
 Our project, Cycle Buddy, is a system that detects danger levels in bikers relative to drivers. Once a driver overpasses a biker, the system detects this unauthorised act, and responds by recognising the face/car plate of the driver in order to contact law enforcements. <br />
 
 ## Short Video demo about our project 
-
+<br><br>
+<video id="video" controls="" preload="none" poster="http://media.w3.org/2010/05/sintel/poster.png">
+      <source id="mp4" src="http://media.w3.org/2010/05/sintel/trailer.mp4" type="video/mp4">
+      <source id="webm" src="http://media.w3.org/2010/05/sintel/trailer.webm" type="video/webm">
+      <source id="ogv" src="http://media.w3.org/2010/05/sintel/trailer.ogv" type="video/ogg">
+      <p>Your user agent does not support the HTML5 Video element.</p>
+    </video>
