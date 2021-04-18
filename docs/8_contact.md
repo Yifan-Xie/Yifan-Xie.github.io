@@ -3,7 +3,7 @@ title: Contact
 nav_order: 8
 ---
 
-# Contact 
+## Contact 
 
 The information about our group members:
 <br><br>
@@ -19,7 +19,7 @@ The information about our group members:
 
 ⭐️ **Project address** - [@Project address](https://github.com/OmarJabri7/Cycle_Buddy)
 
-# Social media link about our project:
+## Social media link about our project:
 <br>
 ⭐️<a href="https://omarjabri7.github.io/Cycle_Buddy/"><strong>Explore the doxygen»</strong></a>  
     <br><br>
