@@ -10,4 +10,12 @@ nav_order: 7
     <source src="videos/Cycle_Buddy_Demo.mp4" type="video/mp4">
   </video>
 </div>
+<br>
+<p align="center">
+  <img src="images/Results+RealTime.png", width="40">
+  <br><br>    
+  <b>Result of the Realtime Demo</b>    
+</p>
+<br><br><br />
+
   
