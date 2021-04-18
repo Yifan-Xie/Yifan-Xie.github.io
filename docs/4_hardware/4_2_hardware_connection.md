@@ -14,7 +14,7 @@ nav_order: 2
 <br>
 
 <p align="center">
-  <img src="../images/Hardware_Connection.png" width="300">
+  <img src="../images/Hardware_Connection.png" width="600">
   <br> 
   <b> Hardware connection </b>    
 </p>
