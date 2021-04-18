@@ -20,7 +20,7 @@ The information about our group members:
 ⭐️ **Project address** - [@Project address](https://github.com/OmarJabri7/Cycle_Buddy)
 
 # Social media link about our project:
-
+<br>
 ⭐️<a href="https://omarjabri7.github.io/Cycle_Buddy/"><strong>Explore the doxygen»</strong></a>  
     <br>
     <a href="https://www.youtube.com/channel/UC4mHw6LXU8YYIvdZxgI5Btw"><img src="images/Youtube_logo.png" width="40"></a>&nbsp;&nbsp;&nbsp;&nbsp;
