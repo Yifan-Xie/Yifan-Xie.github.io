@@ -11,9 +11,10 @@ nav_order: 7
   </video>
 </div>
 <br>
+
 <p align="center">
-  <img src="images/Results+RealTime.png", width="600">
-  <br><br>    
+  <img src="images/Results+RealTime.png" width="600">
+  <br>   
   <b>Result of the Realtime Demo</b>    
 </p>
 <br><br><br />
