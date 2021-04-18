@@ -13,7 +13,7 @@ nav_order: 7
 <br>
 
 <p align="center">
-  <img src="images/Results+RealTime.png" width="600">
+  <img src="images/Results+RealTime.png" width="700">
   <br>   
   <b>Result of the Realtime Demo</b>    
 </p>
