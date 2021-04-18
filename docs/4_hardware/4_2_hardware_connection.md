@@ -7,13 +7,12 @@ nav_order: 2
 ## Hardware connection
 <br>
 <p align="center">
-  <img height = 550 src="../images/circuits.png">
+  <img height = 450 src="../images/circuits.png">
   <br> 
   <b> Circuits </b>    
 </p>
 <br>
 
-<br>
 <p align="center">
   <img height = 550 src="../images/Hardware_Connection.png">
   <br> 
