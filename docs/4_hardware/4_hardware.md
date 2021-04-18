@@ -3,7 +3,7 @@ title: Hardware module
 nav_order: 1
 ---
 
-## Hardware
+## Hardware module
 ### Main device:
 * [Raspberry Pi 3 Model B +](https://thepihut.com/products/raspberry-pi-3-model-b-plus?src=raspberrypi) (￡33.90, **1** is needed, not included)
 
