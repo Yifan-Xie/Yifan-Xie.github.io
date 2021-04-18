@@ -1,5 +1,6 @@
 ---
 title: System diagram
+parent: UML diagrams
 nav_order: 1
 ---
 
