@@ -11,5 +11,6 @@ nav_order: 2
   <br> 
   <b> Hardware connection </b>    
 </p>
-<br><br><br />
-This hardware connection is for **Raspberry Pi 4B**, if you are not use this type, you should connect GPIO according to your version.
+<br>
+
+* This hardware connection is for **Raspberry Pi 4B**, if you do not use this type, you should connect GPIO according to your version.
