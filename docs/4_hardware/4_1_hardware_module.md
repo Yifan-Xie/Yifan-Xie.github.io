@@ -33,3 +33,14 @@ nav_order: 1
 
 ​	**Overall**, it costs us ￡49.86 except the **Raspberry Pi 3 Model B +** for the project.
 <br><br><br />
+
+## How does the hardware work? 
+<br>
+
+* 1. Ultrasonic Sensor: The latter aims at capturing the distance from the car relative to to the bike. Moreover, it will extract the speed at which the car was coming at with cm/s as units.<br>
+
+* 2. Hall Effect Sensor: This sensor will enable the system to know when the bike is rotating, giving us its velocity with cm/s as units. This is needed to understand if the car is parked or not. We would not want to blame a driverless car.<br>
+
+* 3. Pi Camera: Once the camera is triggered, it will be situated strategically to ensure it captures the driver's car plate. Once done, the system will send the captured image to an API that will recognise the car plate using Computer Vision.<br>
+
+
