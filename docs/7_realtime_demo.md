@@ -12,7 +12,11 @@ nav_order: 7
 </div>
 <br>
 
-* Moral of the story is, that the api is capable enough to recognize the car plates within any environment. Moreover, the data displayed under the Car Plate are the sensor readings at the instant of capturing the image. Thus, ensuring that the system operates in real time.
+* Moral of the story is, that the api is capable enough to recognize the car plates within any environment. Moreover, the data displayed under the Car Plate are the sensor readings at the instant of capturing the image. Thus, ensuring that the system operates in real time. <br>
+
+<p align="center">
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/NPxJzn9jRe8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 
 <p align="center">
   <img src="images/Results+RealTime.png" width="700">
@@ -21,6 +25,6 @@ nav_order: 7
 </p>
 
 * Notice how the car plate is equivalent (green square), alongside car distance, velocity and bike velocity (red square).
-<br><br><br />
- 
- <iframe width="560" height="315" src="https://www.youtube.com/embed/NPxJzn9jRe8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br><br />
+
+
