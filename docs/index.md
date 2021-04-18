@@ -20,7 +20,7 @@ The Gif below demonstrates the real time nature of the system, where each sensor
   <p align="center">
     <img height = 400 src="images/real-time-nature.gif">
     <br><br>    
-    <b>Figure 2: Real time demo</b>    
+    <b>Real-time demo</b>    
   </p>
   
 * It is clear to note how the timestamp emerging from the raspberry pi is the same as the one displayed in the android app. This reinforces the real-time responsiveness of our system.
