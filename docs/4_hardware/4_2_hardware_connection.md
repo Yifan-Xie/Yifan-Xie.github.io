@@ -5,10 +5,11 @@ nav_order: 2
 ---
 
 ## Hardware connection
-<br><br>
+<br>
 <p align="center">
   <img height = 550 src="../images/Hardware_Connection.png">
   <br> 
   <b> Hardware connection </b>    
 </p>
 <br><br><br />
+This hardware connection is for **Raspberry Pi 4B**, if you are not use this type, you should connect GPIO according to your version.
