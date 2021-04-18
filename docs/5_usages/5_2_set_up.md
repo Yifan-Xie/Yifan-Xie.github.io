@@ -19,6 +19,6 @@ Please follow these necessary steps: <br/>
    `make test`<br>
 6. Run the test file labeled Cycle_Buddy: <br/>
     `./Cycle_Buddy`
-    <br>
+<br><br>
 For more <b>information</b>, please visit this [**Youtube link**](https://www.youtube.com/watch?v=VLvaPXP31dk)
 <br><br><br />
