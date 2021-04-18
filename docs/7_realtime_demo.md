@@ -24,8 +24,6 @@ nav_order: 7
 
 * The final thing to notice is how the system saves the relevant data once the image is captured, reinforcing the idea of a real-time embedded system:
 
-<br>
-
 <p align="center">
   <img src="images/Results+RealTime.png" width="700">
   <br>   
