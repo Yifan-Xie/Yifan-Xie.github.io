@@ -20,7 +20,7 @@ nav_order: 7
 <br><br><br />
 
 ## How does Cycle buddy work in Realtime Demo?
-<br><br>
+<br>
 1. Ultrasonic Sensor: The latter aims at capturing the distance from the car relative to to the bike. Moreover, it will extract the speed at which the car was coming at with cm/s as units.<br>
 
 2. Hall Effect Sensor: This sensor will enable the system to know when the bike is rotating, giving us its velocity with cm/s as units. This is needed to understand if the car is parked or not. We would not want to blame a driverless car.<br>
