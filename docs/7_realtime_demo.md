@@ -4,10 +4,10 @@ nav_order: 7
 ---
 
 ## Realtime Demo
-<p align="center">
-    <br>
-    You can also explore our Doxygen for more details: 
-    <br />
-    <br />
-    ⭐️<a href="https://omarjabri7.github.io/Cycle_Buddy/"><strong>Explore the doxygen»</strong></a>
+
+<div align="center">
+  <video width="600" controls>
+    <source src="videos/Cycle_Buddy_Demo.mp4" type="video/mp4">
+  </video>
+</div>
   
