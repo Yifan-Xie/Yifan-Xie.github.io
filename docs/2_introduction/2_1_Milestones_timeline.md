@@ -3,9 +3,10 @@ title: Milestones timeline
 parent: Introduction 
 nav_order: 1
 ---
+## Milestones timeline 
 
 <p align="center">
-    <br><br><br>
+    <br><br>
     <img src="../images/Milestones_timeline.png" alt="Logo" >
     <br><br>
     </a>
