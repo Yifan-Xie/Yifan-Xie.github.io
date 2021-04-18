@@ -1,7 +1,7 @@
 ---
 title: Sequence diagram
 parent: UML diagrams
-nav_order: 1
+nav_order: 2
 ---
 
 ## Sequence diagram
