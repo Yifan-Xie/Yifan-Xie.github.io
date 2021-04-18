@@ -9,7 +9,6 @@ nav_order: 1
     <img src="../images/Milestones_timeline.png" alt="Logo" >
     <br>
     <b> Milestones timeline </b>    
-    </a>
 </p>
 
 * In the first stage, we make a plan to decide what to do for the project and which type of sensors we should choose. <br><br>
