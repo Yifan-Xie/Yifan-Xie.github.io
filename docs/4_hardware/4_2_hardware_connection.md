@@ -9,7 +9,7 @@ nav_order: 2
 <p align="center">
   <img height = 550 src="../images/circuits.png">
   <br> 
-  <b> Hardware connection </b>    
+  <b> Circuits </b>    
 </p>
 <br>
 
