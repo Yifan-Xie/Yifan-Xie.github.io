@@ -1,5 +1,6 @@
 ---
 title: Hardware module
+parent: Hardware
 nav_order: 1
 ---
 
