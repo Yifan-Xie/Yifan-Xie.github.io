@@ -1,7 +1,7 @@
 ---
 title: Sequence diagram
 parent: System Overview
-nav_order: 2
+nav_order: 1
 ---
 
 ## Sequence diagram
