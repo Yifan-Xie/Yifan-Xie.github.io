@@ -1,6 +1,6 @@
 ---
-title: Hardware
-nav_order: 3
+title: Hardware module
+nav_order: 1
 ---
 
 ## Hardware
