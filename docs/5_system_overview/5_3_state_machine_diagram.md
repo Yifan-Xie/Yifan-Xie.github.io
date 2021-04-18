@@ -1,6 +1,6 @@
 ---
 title: State machine diagram
-parent: UML diagrams
+parent: System Overview
 nav_order: 3
 ---
 
