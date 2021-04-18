@@ -18,6 +18,7 @@ Please follow these necessary steps: <br/>
 5. Generate Unit tests and check if all components pass:<br>
    `make test`<br>
 6. Run the test file labeled Cycle_Buddy: <br/>
-    `./Cycle_Buddy`<br/>
+    `./Cycle_Buddy`
+    <br>
 For more <b>information</b>, please visit this [**Youtube link**](https://www.youtube.com/watch?v=VLvaPXP31dk)
 <br><br><br />
