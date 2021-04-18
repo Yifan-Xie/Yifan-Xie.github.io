@@ -11,8 +11,7 @@ nav_order: 1
   <br> 
   <b> Sequence diagram </b>    
 </p>
-<br><br />
-
+<br>
 ### Raspberry Pi:
 The system’s core processing platform, which handles communicating with sensors\camera\mobile app and firebase, it will trigger the action for each part of the system whenever the driven event take place.
 
