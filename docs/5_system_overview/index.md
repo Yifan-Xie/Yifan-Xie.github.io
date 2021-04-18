@@ -11,4 +11,3 @@ has_children: true
   <br> 
   <b> System Diagram </b>    
 </p>
-<br>
