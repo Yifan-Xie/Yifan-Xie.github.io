@@ -6,7 +6,6 @@ nav_order: 1
 ## Milestones timeline 
 
 <p align="center">
-    <br><br>
     <img src="../images/Milestones_timeline.png" alt="Logo" >
     <br>
     <b> Milestones timeline </b>    
