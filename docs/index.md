@@ -14,9 +14,13 @@ We are a group of the Real Time Embedded Programing Project in the University of
 
 Our project, Cycle Buddy, is a system that detects danger levels in bikers relative to drivers. Once a driver overpasses a biker, the system detects this unauthorised act, and responds by recognising the face/car plate of the driver in order to contact law enforcements. <br />
 
-## Short Video demo about our project 
+## Short demo about our project
 <br>
-<video id="video" controls="" preload="none" poster="https://user-images.githubusercontent.com/35663665/115083703-b6767e00-9eff-11eb-9815-4cbdc0df435f.mp4/2010/05/sintel/poster.png">
-      <source id="mp4" src="https://user-images.githubusercontent.com/35663665/115083703-b6767e00-9eff-11eb-9815-4cbdc0df435f.mp4" type="video/mp4">
-      <p>Your user agent does not support the HTML5 Video element.</p>
-    </video>
+The Gif below demonstrates the real time nature of the system, where each sensor reading is sent to the android application and plotted in real time:
+  <p align="center">
+    <img height = 400 src="images/real-time-nature.gif">
+    <br><br>    
+    <b>Figure 2: Real time demo</b>    
+  </p>
+  
+* It is clear to note how the timestamp emerging from the raspberry pi is the same as the one displayed in the android app. This reinforces the real-time responsiveness of our system.
