@@ -1,6 +1,6 @@
 ---
 title: Sequence diagram
-parent: UML diagrams
+parent: System Overview
 nav_order: 2
 ---
 
