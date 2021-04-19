@@ -21,7 +21,7 @@ nav_order: 2
 </p>
 <br>
 
-Raspberry Pi 3B，GPIO and wiringPi pin usage defination, required to be modified given different GPIO layout: <br>
+Raspberry Pi 3B，GPIO and wiringPi pin usage defination, required to be modified given different GPIO layout: <br><br>
 **#define HALL 0 <br>
 #define SONAR 1 <br>
 #define pinInHall 1 <br>
