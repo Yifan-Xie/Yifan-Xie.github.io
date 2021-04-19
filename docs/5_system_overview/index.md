@@ -7,7 +7,7 @@ has_children: true
 ## System Overview
 <br>
 <p align="center">
-  <img src="../images/system_diagram.svg" width = "700">
+  <img src="../images/System_Diagram.png" width = "500">
   <br>
   <b> System Diagram </b>    
 </p>
