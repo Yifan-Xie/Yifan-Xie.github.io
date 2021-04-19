@@ -21,6 +21,14 @@ nav_order: 2
 </p>
 <br>
 
+GPIO and wiringPi pin usage defination, required to be modified given different GPIO layout 
+#define HALL 0
+#define SONAR 1
+#define pinInHall 1
+#define pinOutHall 4
+#define pinInSonarOne 24
+#define pinOutSonarOne 23
+
 ### Hardware connection for Raspberry Pi 4B 
 <p align="center">
   <img src="../images/Hardware_Connection.png" width="600">
