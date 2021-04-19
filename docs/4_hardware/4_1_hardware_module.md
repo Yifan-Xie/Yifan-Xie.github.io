@@ -52,6 +52,7 @@ nav_order: 1
     <br><br>    
     <b>Power battery</b>    
   </p>
+  <br>
 
 ​	**Overall**, it costs us ￡49.86 except the **Raspberry Pi 3 Model B +** for the project.
 <br><br><br />
