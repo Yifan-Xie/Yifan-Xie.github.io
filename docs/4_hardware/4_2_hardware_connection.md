@@ -13,7 +13,7 @@ nav_order: 2
 </p>
 <br>
 
-### Hardware connection for Raspberry Pi 3B 
+### Hardware connection for Raspberry Pi 3B: 
 <p align="center">
   <img src="../images/gpio-readout.png" width="600">
   <br> 
@@ -29,7 +29,7 @@ Raspberry Pi 3B，GPIO and wiringPi pin usage defination, required to be modifie
 #define pinInSonarOne 24 <br>
 #define pinOutSonarOne 23** <br>
 
-### Hardware connection for Raspberry Pi 4B 
+### Hardware connection for Raspberry Pi 4B: 
 <p align="center">
   <img src="../images/Hardware_Connection.png" width="600">
   <br> 
