@@ -8,8 +8,9 @@ has_children: true
 <br>
 <p align="center">
     <img src="../images/Cycle_Buddy_introduction.png" width="600">
+    <br><br>   
     <b>Introduction</b>    
-    <br><br>     
+    <br>     
 </p>
   
 Our project, Cycle Buddy, is a system that detects cars that endanger the bikers on the road. Once the car overpasses our biker in a relative high speed and within a close distance, the system can detect this dangerous action and responds by capturing the car's photo and recognize its car plate number. <br>
