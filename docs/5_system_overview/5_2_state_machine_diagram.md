@@ -6,7 +6,7 @@ nav_order: 2
 
 ## State Machine diagram
 <p align="center">
-  <img src="../images/state_machine_diagram.svg" width="700">      
+  <img src="../images/state_machine_diagram.svg" width="500">      
 </p>
 
 
