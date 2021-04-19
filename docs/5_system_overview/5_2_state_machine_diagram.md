@@ -10,7 +10,7 @@ nav_order: 2
 </p>
 
 In the state machine above:
-<br>
+<br><br>
 
 * Dis_t is the relative disatnce threshold (max.) between car and bike that triggers photo capture.
 <br>
