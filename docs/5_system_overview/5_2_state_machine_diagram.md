@@ -9,7 +9,6 @@ nav_order: 2
   <img src="../images/state_machine_diagram.svg" width="500">      
 </p>
 
-
 In the state machine above:
 <br>
 
