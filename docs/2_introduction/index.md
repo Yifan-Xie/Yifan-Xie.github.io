@@ -8,6 +8,7 @@ has_children: true
 <br>
 <p align="center">
     <img src="../images/Cycle_Buddy_introduction.png" width="600">
+    <b>Introduction</b>    
     <br><br>     
 </p>
   
