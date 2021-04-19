@@ -7,7 +7,7 @@ nav_order: 1
 ## Sequence diagram
 
 <p align="center">
-  <img src="../images/sequence_diagram.svg" width="700">
+  <img src="../images/sequence_diagram.svg" width="1000">
   <br> 
   <b> Sequence diagram </b>    
 </p><br>
