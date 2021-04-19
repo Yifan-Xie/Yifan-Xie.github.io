@@ -1,10 +1,10 @@
 ---
-title: System Overview
+title: Architecture
 nav_order: 5
 has_children: true
 ---
 
-## System Overview
+## Architecture
 <br>
 <p align="center">
   <img src="../images/System_Diagram.png" width = "700">
