@@ -7,7 +7,7 @@ has_children: true
 ## Introduction
 <br>
 <p align="center">
-    <img src="../images/Cycle_Buddy_introduction.png" width="400">
+    <img src="../images/Cycle_Buddy_introduction.png" width="600">
     <br><br>     
 </p>
   
