@@ -1,6 +1,6 @@
 ---
 title: State machine diagram
-parent: System Overview
+parent: Architecture
 nav_order: 2
 ---
 
