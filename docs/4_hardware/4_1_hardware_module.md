@@ -14,7 +14,7 @@ nav_order: 1
 * [Hall sensor](https://www.amazon.co.uk/AZDelivery-Linear-Magnetic-Sensor-Arduino/dp/B07DPVTKBB/ref=sr_1_4_sspa?dchild=1&keywords=Hall+Effect+Sensor&qid=1618406619&sr=8-4-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyV1lEMzJNSUE5S1A4JmVuY3J5cHRlZElkPUEwMjc5ODE1MTI4TUc5SFI1R0gxUSZlbmNyeXB0ZWRBZElkPUEwMDIzNjQwMTkzSk03UDI4WFdROSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=) (￡4.49, **1** is needed)
 
   <p align="center">
-    <img height = 400 src="../images/hall_sensor.png">
+    <img src="../images/hall_sensor.png" width="400">
     <br><br>    
     <b>Hall sensor</b>    
   </p>
@@ -24,7 +24,7 @@ nav_order: 1
 * [Ultrasonic sensor](https://www.amazon.co.uk/HC-SR04-Ultrasonic-Distance-Measuring-Arduino/dp/B01DM8MRTS/ref=sr_1_7?dchild=1&keywords=Ultrasonic+Sensor&qid=1618407336&sr=8-7)（￡3.99,  **1** is needed)
   
   <p align="center">
-    <img height = 400 src="../images/ultrasonic_sensor.png">
+    <img src="../images/ultrasonic_sensor.png" width="400">
     <br><br>    
     <b>Hall sensor</b>    
   </p>
@@ -34,7 +34,7 @@ nav_order: 1
 * [Pi camera](https://www.amazon.co.uk/dp/B07XBKC6H7/ref=cm_sw_r_u_apa_glt_fabc_74TKMY2AH1HFZ4SVKC7J) （￡10.99, **1** is needed) 
  
  <p align="center">
-    <img height = 400 src="../images/Pi_camera.png">
+    <img src="../images/Pi_camera.png" width="400">
     <br><br>    
     <b>Pi camera</b>    
   </p>
@@ -48,7 +48,7 @@ nav_order: 1
 * Power supply for Raspberry Pi or Power bank. (￡ 13.56)
   
   <p align="center">
-    <img height = 400 src="../images/power_battery.png">
+    <img src="../images/power_battery.png" width="400">
     <br><br>    
     <b>Power battery</b>    
   </p>
@@ -61,7 +61,7 @@ nav_order: 1
 * Ultrasonic Sensor: The latter aims at capturing the distance from the car relative to to the bike. Moreover, it will extract the speed at which the car was coming at with cm/s as units.<br><br>
 
   <p align="center">
-    <img height = 400 src="../images/ultrasonic_sensor_circuit.jpeg">
+    <img src="../images/ultrasonic_sensor_circuit.jpeg" width="400">
     <br><br>    
     <b>Ultrasonic sensor circuit</b>    
   </p>
@@ -69,7 +69,7 @@ nav_order: 1
 * Hall Effect Sensor: This sensor will enable the system to know when the bike is rotating, giving us its velocity with cm/s as units. This is needed to understand if the car is parked or not. We would not want to blame a driverless car.<br><br>
   
   <p align="center">
-    <img height = 400 src="../images/hall_sensor_circuit.png">
+    <img src="../images/hall_effect_sensor_circuit.png" width="400">
     <br><br>    
     <b>Hall sensor circuit</b>    
   </p>
