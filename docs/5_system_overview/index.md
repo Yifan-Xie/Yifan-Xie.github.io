@@ -8,6 +8,7 @@ has_children: true
 <br>
 <p align="center">
   <img src="../images/system_diagram.svg" width = "700">
+  <br>
   <b> System Diagram </b>    
 </p>
 
