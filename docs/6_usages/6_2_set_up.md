@@ -20,5 +20,10 @@ Please follow these necessary steps: <br/>
 6. Run the test file labeled Cycle_Buddy: <br/>
     `./Cycle_Buddy`
 <br><br>
-For more <b>information</b>, please visit this [**Youtube link**](https://www.youtube.com/watch?v=VLvaPXP31dk)
+For more <b>information</b>, please visit this:
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VLvaPXP31dk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
 <br><br><br />
