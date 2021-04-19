@@ -1,9 +1,9 @@
 ---
-title: Contact
+title: Learn more about us
 nav_order: 8
 ---
 
-## Contact 
+## Learn more about us
 
 The information about our group members:
 <br><br>
